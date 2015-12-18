@@ -2,7 +2,7 @@
 
 * Analisi delle forme:
   * Esempio: *Waldstein Sonata* di Ludwig Van Beethoven, 1. mvt
-    ![Beethoven's Waldstein Schema](https://goo.gl/photos/HfL9YrggEDnsrUr98)
+    ![Beethoven's Waldstein Schema](./IMG_20151218_190323089.jpg)
 
 ## Compiti per la prossima volta:
 
