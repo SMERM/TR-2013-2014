@@ -1,5 +1,7 @@
 # Lezione del 1 Aprile 2016
 
+![whiteboard](./TR_III_20160401.jpg)
+
 ## Argomenti
 
 * `SuperCollider`: `Xpiece`
